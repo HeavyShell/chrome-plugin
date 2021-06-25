@@ -13,8 +13,11 @@
 
 #### 要点：
 1 插件开发技术
+
 2 background和content消息通信技术
+
 3 识别html元素技术
+
 
 #### chrome浏览器插件开发实现，可见manifest.js 详细文档可网上查阅
 
