@@ -23,6 +23,23 @@
 
 #### By Heavy
 
+### 使用方法：
+1 chrome浏览器输入：chrome://extensions/ 打开界面，也可重设置中进入：设置=》更多工具=》拓展程序
+
+2 打开开发者模式，如图：
+![image](https://user-images.githubusercontent.com/14215192/123385623-4f90d780-d5c8-11eb-8714-4ff39dae9072.png)
+
+3 加载对应文件目录即可，如图：
+![image](https://user-images.githubusercontent.com/14215192/123385687-659e9800-d5c8-11eb-9c90-7fcf5e9c0eec.png)
+
+![image](https://user-images.githubusercontent.com/14215192/123385772-80710c80-d5c8-11eb-8379-03743704efba.png)
+
+4 安装成功视图：
+![image](https://user-images.githubusercontent.com/14215192/123385935-b1e9d800-d5c8-11eb-9e8e-681d351cee2e.png)
+
+![image](https://user-images.githubusercontent.com/14215192/123385978-bdd59a00-d5c8-11eb-931a-25ce775576db.png)
+
+
 ### 演示效果：
 
 ![image](https://user-images.githubusercontent.com/14215192/123385194-df825180-d5c7-11eb-8ae0-072e98a7f8b3.png)
