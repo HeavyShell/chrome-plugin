@@ -22,3 +22,12 @@
 #### chrome浏览器插件开发实现，可见manifest.js 详细文档可网上查阅
 
 #### By Heavy
+
+### 演示效果：
+
+![image](https://user-images.githubusercontent.com/14215192/123385194-df825180-d5c7-11eb-8ae0-072e98a7f8b3.png)
+
+![image](https://user-images.githubusercontent.com/14215192/123385230-e8732300-d5c7-11eb-8997-2a7c7b683d25.png)
+
+![image](https://user-images.githubusercontent.com/14215192/123385259-ee690400-d5c7-11eb-9e6d-035a29daad4f.png)
+
